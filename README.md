@@ -1,0 +1,2 @@
+# SEWH_Translation
+这里是Wqawa的SEWH Script的动作以及物品名称的外部翻译库
